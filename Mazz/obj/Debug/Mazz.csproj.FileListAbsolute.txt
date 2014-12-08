@@ -10,3 +10,5 @@ C:\Users\Kale Chenier\Desktop\Mazz\Mazz\obj\Debug\Mazz.exe
 C:\Users\Kale Chenier\Desktop\Mazz\Mazz\obj\Debug\Mazz.pdb
 D:\Documents\P R O J E C T S\Mazz\Mazz\obj\Debug\Mazz.exe
 D:\Documents\P R O J E C T S\Mazz\Mazz\obj\Debug\Mazz.pdb
+D:\Documents\GitHub\Maze-Runners\Mazz\obj\Debug\Mazz.exe
+D:\Documents\GitHub\Maze-Runners\Mazz\obj\Debug\Mazz.pdb
